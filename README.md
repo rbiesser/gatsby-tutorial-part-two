@@ -1,3 +1,15 @@
+# Intro to Styling in Gatsby
+
+## Part Two
+
+https://www.gatsbyjs.org/tutorial/part-two/
+
+- Gatsby sites use standard css files.
+- adding gatsby-browser.js requires `gatsby develop` restart.
+- styles are added with inline javascript.
+
+---
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
